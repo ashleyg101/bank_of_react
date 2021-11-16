@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:ashleyg101/bank_of_react.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/git@github.com:ashleyg101/bank_of_react.git/static/js/main.4bd53f2b.chunk.js",
+    "main.js.map": "/git@github.com:ashleyg101/bank_of_react.git/static/js/main.4bd53f2b.chunk.js.map",
+    "runtime-main.js": "/git@github.com:ashleyg101/bank_of_react.git/static/js/runtime-main.cfccf6f5.js",
+    "runtime-main.js.map": "/git@github.com:ashleyg101/bank_of_react.git/static/js/runtime-main.cfccf6f5.js.map",
+    "static/js/2.18a484aa.chunk.js": "/git@github.com:ashleyg101/bank_of_react.git/static/js/2.18a484aa.chunk.js",
+    "static/js/2.18a484aa.chunk.js.map": "/git@github.com:ashleyg101/bank_of_react.git/static/js/2.18a484aa.chunk.js.map",
+    "static/js/3.e7a75891.chunk.js": "/git@github.com:ashleyg101/bank_of_react.git/static/js/3.e7a75891.chunk.js",
+    "static/js/3.e7a75891.chunk.js.map": "/git@github.com:ashleyg101/bank_of_react.git/static/js/3.e7a75891.chunk.js.map",
+    "index.html": "/git@github.com:ashleyg101/bank_of_react.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/git@github.com:ashleyg101/bank_of_react.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.18a484aa.chunk.js.LICENSE.txt": "/git@github.com:ashleyg101/bank_of_react.git/static/js/2.18a484aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfccf6f5.js",
+    "static/js/2.18a484aa.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4bd53f2b.chunk.js"
+  ]
+}
